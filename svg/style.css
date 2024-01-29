@@ -1,0 +1,50 @@
+
+body{
+    background-color: black;
+    margin: 0;
+    height: 100%;
+}
+
+svg{
+  margin: 0vw 25vw;
+    padding: 0vw;
+}
+
+.dugmici:hover {
+  width: 115px;
+}
+
+.dugmici img{
+    width: 100px;
+}
+
+
+.ojsa {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0;
+  padding: 5px;
+}
+header{
+  margin: 0;
+  margin-top: 30px;
+}
+
+svg:hover #vijuge {
+    visibility: hidden;
+}
+
+
+
+      .cls-1 {
+        fill: #be1e2d;
+      }
+
+      .cls-2 {
+        fill: #f48284;
+      }
+
+      .cls-3 {
+        fill: #231f20;
+      }
